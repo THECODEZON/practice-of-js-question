@@ -1,1 +1,0 @@
-# practice-of-js-question
